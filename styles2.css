@@ -1,0 +1,45 @@
+body{background-image: radial-gradient(circle at 65.58% 50%, #bbd97b 0, #c5d371 5.56%, #cecd67 11.11%, #d6c55e 16.67%, #ddbc55 22.22%, #e3b14d 27.78%, #e9a647 33.33%, #ed9841 38.89%, #f08a3e 44.44%, #f2793c 50%, #f3673d 55.56%, #f45442 61.11%, #f34049 66.67%, #f22853 72.22%, #f0005e 77.78%, #eb006b 83.33%, #e60079 88.89%, #de0089 94.44%, #d30099 100%);
+}
+  p{
+  text-align: center;
+  font-size: 22px;
+  color: azure;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: azure;
+  margin-top: 165px;
+}
+input{
+  width: 342;
+  height: 50;
+  padding-left: 74px;
+  margin-bottom: 18px;
+  font-weight: 500;
+  font-size: 17px;
+  block-size: 26x;
+  position: relative; 
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  width: 280px;
+  height: 60px;
+  left: 10px;
+  top: 450px;
+  color: azure;
+  cursor: pointer;
+}
+a{
+  text-align: center;
+  font-size: 22px;
+  color: azure;
+}
+  

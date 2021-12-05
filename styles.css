@@ -1,0 +1,46 @@
+body {
+  background-image: radial-gradient(circle at 120.71% 50%, #c9c2ff 0, #919cff 25%, #3c78f2 50%, #0059e3 75%, #0041d4 100%);
+  ;
+}
+p{
+  text-align: center;
+  font-size: 22px;
+  color: azure;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: azure;
+  margin-top: 165px;
+}
+input{
+  width: 342;
+  height: 50;
+  padding-left: 74px;
+  margin-bottom: 18px;
+  font-weight: 500;
+  font-size: 17px;
+  block-size: 26x;
+  position: relative; 
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  width: 280px;
+  height: 60px;
+  left: 10px;
+  top: 450px;
+  color: azure;
+  cursor: pointer;
+}
+a{
+  text-align: center;
+  font-size: 22px;
+  color: azure;
+}
